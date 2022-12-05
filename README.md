@@ -4,3 +4,5 @@
 Repsitorio criado durante uma aula ao vivo!!!
 
 essa linha eu alterei diretamente no github
+
+ estou tentando sozinho!!!
